@@ -90,6 +90,8 @@ First Level .. Faculty of Science .. Ain Shams University
         </td>
         <td rowspan = "2" align = "center">
             <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Quiz.cpp"> Quiz 1 </a>
+            <br> Statistics Department
+            <br> Saturday in Dr. Khairat Lab.
         </td>
     </tr>
     <tr>
