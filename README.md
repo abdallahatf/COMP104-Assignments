@@ -24,7 +24,7 @@ First Level .. Faculty of Science .. Ain Shams University
         <td>
             Lab. 1
         </td>
-        <td>
+        <td align = "center">
        18 Feb 2023 &nbsp; &nbsp; -> &nbsp; &nbsp; 22 Feb 2023
         </td>
         <td>
@@ -41,7 +41,7 @@ First Level .. Faculty of Science .. Ain Shams University
         <td rowspan = "2">
             Lab. 2
         </td>
-        <td rowspan = "2">
+        <td rowspan = "2" align = "center">
             25 Feb 2023 &nbsp; &nbsp; -> &nbsp; &nbsp; 1 Mar 2023
         </td>
         <td colspan = "2" align = "center">
@@ -63,7 +63,7 @@ First Level .. Faculty of Science .. Ain Shams University
         <td rowspan = "2">
             Lab. 3
         </td>
-        <td rowspan = "2">
+        <td rowspan = "2" align = "center">
             4 Mar 2023 &nbsp; &nbsp; -> &nbsp; &nbsp; 8 Mar 2023
         </td>
         <td colspan = "2" align = "center">
@@ -82,7 +82,7 @@ First Level .. Faculty of Science .. Ain Shams University
         <td rowspan = "2">
             Lab. 4
         </td>
-        <td rowspan = "2">
+        <td rowspan = "2" align = "center">
             11 Mar 2023 &nbsp; &nbsp; -> &nbsp; &nbsp; 15 Mar 2023
         </td>
         <td colspan = "2" align = "center">
@@ -103,7 +103,7 @@ First Level .. Faculty of Science .. Ain Shams University
         <td rowspan = "2">
             Lab. 5
         </td>
-        <td rowspan = "2">
+        <td rowspan = "2" align = "center">
             18 Mar 2023 &nbsp; &nbsp; -> &nbsp; &nbsp; 22 Mar 2023
         </td>
         <td colspan = "2" align = "center">
