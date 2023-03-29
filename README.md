@@ -116,3 +116,20 @@ First Level .. Faculty of Science .. Ain Shams University
     <tr>
         <td colspan = "2" align = "center">
             Solved in paper
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Lab. 6
+        </td>
+        <td align = "center">
+            25 Mar 2023 &nbsp; &nbsp; -> &nbsp; &nbsp; 30 Mar 2023
+        </td>
+        <td colspan = "2" align = "center">
+            Solved in paper
+        </td>
+        <td align = "center">
+            _
+        </td>
+    </tr>
+</table>
