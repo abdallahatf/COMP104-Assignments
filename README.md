@@ -123,7 +123,7 @@ First Level .. Faculty of Science .. Ain Shams University
             Lab. 6
         </td>
         <td align = "center">
-            25 Mar 2023 &nbsp; &nbsp; -> &nbsp; &nbsp; 30 Mar 2023
+            25 Mar 2023 &nbsp; &nbsp; -> &nbsp; &nbsp; 29 Mar 2023
         </td>
         <td colspan = "2" align = "center">
             Solved in paper
