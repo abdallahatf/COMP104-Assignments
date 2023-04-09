@@ -28,10 +28,10 @@ First Level .. Faculty of Science .. Ain Shams University
        18 Feb 2023 &nbsp; &nbsp; -> &nbsp; &nbsp; 22 Feb 2023
         </td>
         <td>
-            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Lab%201%20Assi%20Program%201.cpp"> Program 1 </a>
+            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%201%20Assi%20Program%201.cpp"> Program 1 </a>
         </td>
         <td>
-            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Lab%201%20Assi%20Program%202.cpp"> Program 2 </a>
+            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%201%20Assi%20Program%202.cpp"> Program 2 </a>
         </td>
         <td align = "center">
            _
@@ -53,10 +53,10 @@ First Level .. Faculty of Science .. Ain Shams University
     </tr>
     <tr>
          <td>
-            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Lab%202%20Assi%202%20Program%201.cpp"> Program 1 </a>
+            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%202%20Assi%202%20Program%201.cpp"> Program 1 </a>
         </td>
         <td>
-            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Lab%202%20Assi%202%20Program%202.cpp"> Program 2 </a>
+            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%202%20Assi%202%20Program%202.cpp"> Program 2 </a>
         </td>
     </tr>
     <tr>
@@ -75,7 +75,7 @@ First Level .. Faculty of Science .. Ain Shams University
     </tr>
     <tr>
         <td colspan = "2" align = "center">
-            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Lab%203%20Assi%202.cpp"> Assignment 2 </a>
+            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%203%20Assi%202.cpp"> Assignment 2 </a>
         </td>
     </tr>
     <tr>
@@ -86,17 +86,17 @@ First Level .. Faculty of Science .. Ain Shams University
             11 Mar 2023 &nbsp; &nbsp; -> &nbsp; &nbsp; 15 Mar 2023
         </td>
         <td colspan = "2" align = "center">
-            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Lab%204%20Assi%201.cpp"> Assignment 1 </a>
+            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%204%20Assi%201.cpp"> Assignment 1 </a>
         </td>
         <td rowspan = "2" align = "center">
-            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Quiz.cpp"> Quiz 1 </a>
+            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Quiz.cpp"> Quiz 1 </a>
             <br> Statistics Department
             <br> Saturday in Dr. Khairat Lab.
         </td>
     </tr>
     <tr>
         <td colspan = "2" align = "center">
-            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Lab%204%20Assi%202.cpp"> Assignment 2 </a>
+            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%204%20Assi%202.cpp"> Assignment 2 </a>
         </td>
     </tr>
     <tr>
@@ -107,7 +107,7 @@ First Level .. Faculty of Science .. Ain Shams University
             18 Mar 2023 &nbsp; &nbsp; -> &nbsp; &nbsp; 22 Mar 2023
         </td>
         <td colspan = "2" align = "center">
-            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Lab%205%20Assi%201.cpp"> Assignment 1 </a>
+            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%205%20Assi%201.cpp"> Assignment 1 </a>
         </td>
         <td rowspan = "2" align = "center">
             _
