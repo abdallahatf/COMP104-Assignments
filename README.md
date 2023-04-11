@@ -13,7 +13,7 @@ First Level .. Faculty of Science .. Ain Shams University
         <th>
             Date
         </th>
-        <th colspan = "2">
+        <th colspan = "8">
             Assignments (in Labs)
         </th>
         <th>
@@ -27,10 +27,10 @@ First Level .. Faculty of Science .. Ain Shams University
         <td align = "center">
        18 Feb 2023 &nbsp; &nbsp; -> &nbsp; &nbsp; 22 Feb 2023
         </td>
-        <td>
+        <td colspan = "4" align = "center">
             <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%201%20Assi%20Program%201.cpp"> Program 1 </a>
         </td>
-        <td>
+        <td colspan = "4" align = "center">
             <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%201%20Assi%20Program%202.cpp"> Program 2 </a>
         </td>
         <td align = "center">
@@ -44,7 +44,7 @@ First Level .. Faculty of Science .. Ain Shams University
         <td rowspan = "2" align = "center">
             25 Feb 2023 &nbsp; &nbsp; -> &nbsp; &nbsp; 1 Mar 2023
         </td>
-        <td colspan = "2" align = "center">
+        <td colspan = "8" align = "center">
             Discover with yourself
         </td>
         <td rowspan = "2" align = "center">
@@ -52,10 +52,10 @@ First Level .. Faculty of Science .. Ain Shams University
         </td>
     </tr>
     <tr>
-         <td>
+         <td colspan = "4" align = "center">
             <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%202%20Assi%202%20Program%201.cpp"> Program 1 </a>
         </td>
-        <td>
+        <td colspan = "4" align = "center">
             <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%202%20Assi%202%20Program%202.cpp"> Program 2 </a>
         </td>
     </tr>
@@ -66,7 +66,7 @@ First Level .. Faculty of Science .. Ain Shams University
         <td rowspan = "2" align = "center">
             4 Mar 2023 &nbsp; &nbsp; -> &nbsp; &nbsp; 8 Mar 2023
         </td>
-        <td colspan = "2" align = "center">
+        <td colspan = "8" align = "center">
             Solved in paper
         </td>
         <td rowspan = "2" align = "center">
@@ -74,7 +74,7 @@ First Level .. Faculty of Science .. Ain Shams University
         </td>
     </tr>
     <tr>
-        <td colspan = "2" align = "center">
+        <td colspan = "8" align = "center">
             <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%203%20Assi%202.cpp"> Assignment 2 </a>
         </td>
     </tr>
@@ -85,7 +85,7 @@ First Level .. Faculty of Science .. Ain Shams University
         <td rowspan = "2" align = "center">
             11 Mar 2023 &nbsp; &nbsp; -> &nbsp; &nbsp; 15 Mar 2023
         </td>
-        <td colspan = "2" align = "center">
+        <td colspan = "8" align = "center">
             <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%204%20Assi%201.cpp"> Assignment 1 </a>
         </td>
         <td rowspan = "2" align = "center">
@@ -95,7 +95,7 @@ First Level .. Faculty of Science .. Ain Shams University
         </td>
     </tr>
     <tr>
-        <td colspan = "2" align = "center">
+        <td colspan = "8" align = "center">
             <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%204%20Assi%202.cpp"> Assignment 2 </a>
         </td>
     </tr>
@@ -106,7 +106,7 @@ First Level .. Faculty of Science .. Ain Shams University
         <td rowspan = "2" align = "center">
             18 Mar 2023 &nbsp; &nbsp; -> &nbsp; &nbsp; 22 Mar 2023
         </td>
-        <td colspan = "2" align = "center">
+        <td colspan = "8" align = "center">
             <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%205%20Assi%201.cpp"> Assignment 1 </a>
         </td>
         <td rowspan = "2" align = "center">
@@ -114,22 +114,35 @@ First Level .. Faculty of Science .. Ain Shams University
         </td>
     </tr>
     <tr>
-        <td colspan = "2" align = "center">
+        <td colspan = "8" align = "center">
             Solved in paper
         </td>
     </tr>
     <tr>
-        <td>
+        <td rowspan = "4">
             Lab. 6
         </td>
-        <td align = "center">
+        <td rowspan = "4" align = "center">
             25 Mar 2023 &nbsp; &nbsp; -> &nbsp; &nbsp; 29 Mar 2023
         </td>
-        <td colspan = "2" align = "center">
+        <td rowspan = "8">
+            First PDF:
+        </td>
+        <td colspan = "7" align = "center">
             Solved in paper
         </td>
-        <td align = "center">
+        <td rowspan = "4" align = "center">
             _
+        </td>
+    </tr>
+    <tr>
+        <td colspan = "7" align = "center">
+            Solved in paper
+        </td>
+    </tr>
+    <tr>
+        <td colspan = "7" align = "center">
+            Solved in paper
         </td>
     </tr>
 </table>
