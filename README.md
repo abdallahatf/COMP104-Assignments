@@ -7,16 +7,16 @@ First Level .. Faculty of Science .. Ain Shams University
 <h3> COMP 104 </h3>
 <table>
     <tr>
-        <th>
+        <th width = "100">
             Lab num.
         </th>
-        <th>
+        <th width = "310">
             Date
         </th>
-        <th colspan = "8">
+        <th colspan = "8" width = "1200">
             Assignments (in Labs)
         </th>
-        <th>
+        <th width = "200">
             Quizzes
         </th>
     </tr>
@@ -143,6 +143,29 @@ First Level .. Faculty of Science .. Ain Shams University
     <tr>
         <td colspan = "7" align = "center">
             Solved in paper
+        </td>
+    </tr>
+    <tr>
+        <td align = "center">
+            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%206%20Q%204%20Sum%20A.cpp"> Q 4 Sum A </a>
+        </td>
+          <td align = "center">
+            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%206%20Q%204%20Sum%20B.cpp"> Q 4 Sum B </a>
+        </td>
+          <td align = "center">
+            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%206%20Q%204%20Sum%20C.cpp"> Q 4 Sum C </a>
+        </td>
+          <td align = "center">
+            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%206%20Q%204%20Sum%20D.cpp"> Q 4 Sum D </a>
+        </td>
+          <td align = "center">
+            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%206%20Q%204%20Sum%20E.cpp"> Q 4 Sum E </a>
+        </td>
+          <td align = "center">
+            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%206%20Q%204%20Sum%20F.cpp"> Q 4 Sum F </a>
+        </td>
+          <td align = "center">
+            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%206%20Q%204%20Sum%20G.cpp"> Q 4 Sum G </a>
         </td>
     </tr>
 </table>
