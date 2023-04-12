@@ -7,10 +7,10 @@ First Level .. Faculty of Science .. Ain Shams University
 <h3> COMP 104 </h3>
 <table>
     <tr>
-        <th>
+        <th width = "100">
             Lab num.
         </th>
-        <th>
+        <th width = "500">
             Date
         </th>
         <th colspan = "8">
@@ -25,7 +25,7 @@ First Level .. Faculty of Science .. Ain Shams University
             Lab. 1
         </td>
         <td align = "center">
-       18 Feb 2023 &nbsp; &nbsp; -> <br> &nbsp; &nbsp; 22 Feb 2023
+       18 Feb 2023 &nbsp; &nbsp; -> &nbsp; &nbsp; 22 Feb 2023
         </td>
         <td colspan = "4" align = "center">
             <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%201%20Assi%20Program%201.cpp"> Program 1 </a>
