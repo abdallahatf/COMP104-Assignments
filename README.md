@@ -7,13 +7,13 @@ First Level .. Faculty of Science .. Ain Shams University
 <h3> COMP 104 </h3>
 <table>
     <tr>
-        <th width = "100">
+        <th width = "200">
             Lab num.
         </th>
-        <th width = "500">
+        <th width = "1000000000">
             Date
         </th>
-        <th colspan = "8">
+        <th colspan = "10">
             Assignments (in Labs)
         </th>
         <th>
@@ -27,10 +27,10 @@ First Level .. Faculty of Science .. Ain Shams University
         <td align = "center">
        18 Feb 2023 &nbsp; &nbsp; -> &nbsp; &nbsp; 22 Feb 2023
         </td>
-        <td colspan = "4" align = "center">
+        <td colspan = "5" align = "center">
             <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%201%20Assi%20Program%201.cpp"> Program 1 </a>
         </td>
-        <td colspan = "4" align = "center">
+        <td colspan = "5" align = "center">
             <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%201%20Assi%20Program%202.cpp"> Program 2 </a>
         </td>
         <td align = "center">
@@ -44,7 +44,7 @@ First Level .. Faculty of Science .. Ain Shams University
         <td rowspan = "2" align = "center">
             25 Feb 2023 &nbsp; &nbsp; -> &nbsp; &nbsp; 1 Mar 2023
         </td>
-        <td colspan = "8" align = "center">
+        <td colspan = "10" align = "center">
             Discover with yourself
         </td>
         <td rowspan = "2" align = "center">
@@ -52,10 +52,10 @@ First Level .. Faculty of Science .. Ain Shams University
         </td>
     </tr>
     <tr>
-         <td colspan = "4" align = "center">
+         <td colspan = "5" align = "center">
             <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%202%20Assi%202%20Program%201.cpp"> Program 1 </a>
         </td>
-        <td colspan = "4" align = "center">
+        <td colspan = "5" align = "center">
             <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%202%20Assi%202%20Program%202.cpp"> Program 2 </a>
         </td>
     </tr>
@@ -66,7 +66,7 @@ First Level .. Faculty of Science .. Ain Shams University
         <td rowspan = "2" align = "center">
             4 Mar 2023 &nbsp; &nbsp; -> &nbsp; &nbsp; 8 Mar 2023
         </td>
-        <td colspan = "8" align = "center">
+        <td colspan = "10" align = "center">
             Solved in paper
         </td>
         <td rowspan = "2" align = "center">
@@ -74,7 +74,7 @@ First Level .. Faculty of Science .. Ain Shams University
         </td>
     </tr>
     <tr>
-        <td colspan = "8" align = "center">
+        <td colspan = "10" align = "center">
             <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%203%20Assi%202.cpp"> Assignment 2 </a>
         </td>
     </tr>
@@ -85,7 +85,7 @@ First Level .. Faculty of Science .. Ain Shams University
         <td rowspan = "2" align = "center">
             11 Mar 2023 &nbsp; &nbsp; -> &nbsp; &nbsp; 15 Mar 2023
         </td>
-        <td colspan = "8" align = "center">
+        <td colspan = "10" align = "center">
             <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%204%20Assi%201.cpp"> Assignment 1 </a>
         </td>
         <td rowspan = "2" align = "center">
@@ -95,7 +95,7 @@ First Level .. Faculty of Science .. Ain Shams University
         </td>
     </tr>
     <tr>
-        <td colspan = "8" align = "center">
+        <td colspan = "10" align = "center">
             <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%204%20Assi%202.cpp"> Assignment 2 </a>
         </td>
     </tr>
@@ -106,7 +106,7 @@ First Level .. Faculty of Science .. Ain Shams University
         <td rowspan = "2" align = "center">
             18 Mar 2023 &nbsp; &nbsp; -> &nbsp; &nbsp; 22 Mar 2023
         </td>
-        <td colspan = "8" align = "center">
+        <td colspan = "10" align = "center">
             <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%205%20Assi%201.cpp"> Assignment 1 </a>
         </td>
         <td rowspan = "2" align = "center">
@@ -114,7 +114,7 @@ First Level .. Faculty of Science .. Ain Shams University
         </td>
     </tr>
     <tr>
-        <td colspan = "8" align = "center">
+        <td colspan = "10" align = "center">
             Solved in paper
         </td>
     </tr>
@@ -128,7 +128,7 @@ First Level .. Faculty of Science .. Ain Shams University
         <td rowspan = "8">
             First PDF:
         </td>
-        <td colspan = "7" align = "center">
+        <td colspan = "9" align = "center">
             Solved in paper
         </td>
         <td rowspan = "4" align = "center">
@@ -136,36 +136,81 @@ First Level .. Faculty of Science .. Ain Shams University
         </td>
     </tr>
     <tr>
-        <td colspan = "7" align = "center">
+        <td colspan = "9" align = "center">
             Solved in paper
         </td>
     </tr>
     <tr>
-        <td colspan = "7" align = "center">
+        <td colspan = "9" align = "center">
             Solved in paper
         </td>
     </tr>
     <tr>
+        <td colspan = "2" align = "center">
+            Question 4:
+        </td>
         <td align = "center">
-            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%206%20Q%204%20Sum%20A.cpp"> Q 4 Sum A </a>
+            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%206%20Q%204%20Sum%20A.cpp"> Sum A </a>
         </td>
           <td align = "center">
-            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%206%20Q%204%20Sum%20B.cpp"> Q 4 Sum B </a>
+            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%206%20Q%204%20Sum%20B.cpp"> Sum B </a>
         </td>
           <td align = "center">
-            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%206%20Q%204%20Sum%20C.cpp"> Q 4 Sum C </a>
+            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%206%20Q%204%20Sum%20C.cpp"> Sum C </a>
         </td>
           <td align = "center">
-            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%206%20Q%204%20Sum%20D.cpp"> Q 4 Sum D </a>
+            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%206%20Q%204%20Sum%20D.cpp"> Sum D </a>
         </td>
           <td align = "center">
-            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%206%20Q%204%20Sum%20E.cpp"> Q 4 Sum E </a>
+            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%206%20Q%204%20Sum%20E.cpp"> Sum E </a>
         </td>
           <td align = "center">
-            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%206%20Q%204%20Sum%20F.cpp"> Q 4 Sum F </a>
+            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%206%20Q%204%20Sum%20F.cpp"> Sum F </a>
         </td>
           <td align = "center">
-            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%206%20Q%204%20Sum%20G.cpp"> Q 4 Sum G </a>
+            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%206%20Q%204%20Sum%20G.cpp"> Sum G </a>
         </td>
     </tr>
+    <tr>
+        <td rowspan = "4">
+            Lab. 7
+        </td>
+        <td rowspan = "4" align = "center">
+            1 Apr 2023 &nbsp; &nbsp; -> &nbsp; &nbsp; 5 Apr 2023
+        </td>
+        <td colspan = "9" align = "center">
+            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%207%20Q%205.cpp"> Question 5 </a>
+        </td>
+        <td rowspan = "4" align = "center">
+            _
+        </td>
+    </tr>
+    <tr>
+        <td colspan = "5" align = "center">
+            Question 6:
+        </td>
+        <td align = "center">
+            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%207%20Q%206%2C%201.cpp"> Program 1 </a>
+        </td>
+        <td align = "center">
+            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%207%20Q%206%2C%202.cpp"> Program 2 </a>
+        </td>
+        <td align = "center">
+            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%207%20Q%206%2C%203.cpp"> Program 3 </a>
+        </td>
+        <td align = "center">
+            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%207%20Q%206%2C%204.cpp"> Program 4 </a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan = "9" align = "center">
+            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%207%20Q%207.cpp"> Question 7 </a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan = "9" align = "center">
+            Solved in Paper
+        </td>
+    </tr>
+            
 </table>
