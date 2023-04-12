@@ -16,7 +16,7 @@ First Level .. Faculty of Science .. Ain Shams University
         <th colspan = "2">
             Assignments (in Labs)
         </th>
-        <th>
+        <th width = "200">
             Quizzes
         </th>
     </tr>
