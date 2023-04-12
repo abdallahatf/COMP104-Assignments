@@ -10,7 +10,7 @@ First Level .. Faculty of Science .. Ain Shams University
         <th>
             Lab num.
         </th>
-        <th width = "370">
+        <th width = "350">
             Date
         </th>
         <th colspan = "2">
