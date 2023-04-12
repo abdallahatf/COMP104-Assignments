@@ -7,10 +7,10 @@ First Level .. Faculty of Science .. Ain Shams University
 <h3> COMP 104 </h3>
 <table>
     <tr>
-        <th>
+        <th width = "100">
             Lab num.
         </th>
-        <th width = "300">
+        <th width = "500">
             Date
         </th>
         <th colspan = "6">
