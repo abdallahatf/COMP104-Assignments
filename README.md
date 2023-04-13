@@ -179,5 +179,31 @@ First Level .. Faculty of Science .. Ain Shams University
             Solved in Paper
         </td>
     </tr>
-            
+    <tr>
+        <td rowspan = "3">
+            Lab. 8
+        </td>
+        <td rowspan = "3" align = "center">
+            8 Apr 2023 &nbsp; &nbsp; -> &nbsp; &nbsp; 12 Apr 2023
+        </td>
+        <td rowspan = "3">
+            Second PDF:
+        </td>
+        <td align = "center">
+            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%208/Lab%208%20Q%201/Lab%208%20Q%201.cpp"> Question 1 </a>
+        </td>
+        <td rowspan = "3" align = "center">
+            _
+        </td>
+    </tr>
+    <tr>
+        <td align = "center">
+            <a href = "https://github.com/abdallahatf/COMP104-Assignments/blob/main/Files/Lab%208/Lab%208%20Q%202/Lab%208%20Q%202.cpp"> Question 2 </a>
+        </td>
+    </tr>
+    <tr>
+        <td align = "center">
+            Solved in paper
+        </td>
+    </tr>
 </table>
