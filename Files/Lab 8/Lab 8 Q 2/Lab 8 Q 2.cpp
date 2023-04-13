@@ -5,7 +5,7 @@ using namespace std;
 int main () {
    int constant = 0;
    do {
-      int result = 0;
+      int result;
       for (int multi_num = 0; multi_num <= 10; multi_num++) {
          result = multi_num * constant;
          cout << multi_num << " * " << constant << " = " << result;
