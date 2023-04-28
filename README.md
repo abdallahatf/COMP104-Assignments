@@ -1,5 +1,5 @@
 # COMP104-Assignments
-This Repo is created to recall what we study in COMP 104 throughout this semester  (Spring) <br>
+This Repo is created to recall COMP 104 assignments <br>
 First Level .. Faculty of Science .. Ain Shams University
 <br>
 <br>
